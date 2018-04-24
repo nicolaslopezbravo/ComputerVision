@@ -1,0 +1,246 @@
+******************** epoch 1 ********************
+the training took: 16(s)
+2018-04-24 13:18:40.868695: W T:\src\github\tensorflow\tensorflow\core\common_runtime\bfc_allocator.cc:219] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.62GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2018-04-24 13:18:40.875441: W T:\src\github\tensorflow\tensorflow\core\common_runtime\bfc_allocator.cc:219] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.19GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2018-04-24 13:18:41.177178: W T:\src\github\tensorflow\tensorflow\core\common_runtime\bfc_allocator.cc:219] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.24GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2018-04-24 13:18:41.181684: W T:\src\github\tensorflow\tensorflow\core\common_runtime\bfc_allocator.cc:219] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.40GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+accuracy of the trained model 0.955600
+
+******************** epoch 2 ********************
+the training took: 15(s)
+accuracy of the trained model 0.976900
+
+******************** epoch 3 ********************
+the training took: 15(s)
+accuracy of the trained model 0.981900
+
+******************** epoch 4 ********************
+the training took: 15(s)
+accuracy of the trained model 0.983300
+
+******************** epoch 5 ********************
+the training took: 15(s)
+accuracy of the trained model 0.984700
+
+******************** epoch 6 ********************
+the training took: 15(s)
+accuracy of the trained model 0.985900
+
+******************** epoch 7 ********************
+the training took: 15(s)
+accuracy of the trained model 0.986400
+
+******************** epoch 8 ********************
+the training took: 15(s)
+accuracy of the trained model 0.986400
+
+******************** epoch 9 ********************
+the training took: 15(s)
+accuracy of the trained model 0.987000
+
+******************** epoch 10 ********************
+the training took: 15(s)
+accuracy of the trained model 0.987800
+
+******************** epoch 11 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988200
+
+******************** epoch 12 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988400
+
+******************** epoch 13 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988100
+
+******************** epoch 14 ********************
+the training took: 15(s)
+accuracy of the trained model 0.987900
+
+******************** epoch 15 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988100
+
+******************** epoch 16 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988200
+
+******************** epoch 17 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988400
+
+******************** epoch 18 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988500
+
+******************** epoch 19 ********************
+the training took: 15(s)
+accuracy of the trained model 0.988900
+
+******************** epoch 20 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989100
+
+******************** epoch 21 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989300
+
+******************** epoch 22 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989300
+
+******************** epoch 23 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989800
+
+******************** epoch 24 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989800
+
+******************** epoch 25 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 26 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 27 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989800
+
+******************** epoch 28 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 29 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989800
+
+******************** epoch 30 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 31 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989700
+
+******************** epoch 32 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989700
+
+******************** epoch 33 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989500
+
+******************** epoch 34 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989600
+
+******************** epoch 35 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989600
+
+******************** epoch 36 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989700
+
+******************** epoch 37 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989700
+
+******************** epoch 38 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989800
+
+******************** epoch 39 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989800
+
+******************** epoch 40 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 41 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 42 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990100
+
+******************** epoch 43 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990100
+
+******************** epoch 44 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990100
+
+******************** epoch 45 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 46 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 47 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 48 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 49 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 50 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 51 ********************
+the training took: 15(s)
+accuracy of the trained model 0.989900
+
+******************** epoch 52 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 53 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 54 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 55 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 56 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 57 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 58 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990000
+
+******************** epoch 59 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990100
+
+******************** epoch 60 ********************
+the training took: 15(s)
+accuracy of the trained model 0.990100
+
+********************model 2********************
+accuracy is 0.000099

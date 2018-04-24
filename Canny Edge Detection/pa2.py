@@ -305,7 +305,7 @@ class CannyEdgeDetection(object):
         image1 = np.asarray(PIL.Image.open(directory))
         
         # Use 1D Gaussians to implement 2D Gaussian filtering
-        gauss = self.gaussian(image1,sigma)
+        gauss = self.gaussian(image1.copy(),sigma)
         
         # Calculate Gradient
         grad = self.gradient(gauss)
